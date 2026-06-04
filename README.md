@@ -48,14 +48,5 @@ I document my data engineering journey — SQL, Python, pipelines, and automatio
 - 🔗 [LinkedIn](https://www.linkedin.com/in/fran7safe)
 - 💻 [GitHub](https://github.com/fran6safe)
 
----
 
-## How to Use
 
-1. Clone the repo
-2. Open `index.html` in any browser
-3. Or visit the live link above
-
----
-
-*Part of an ongoing SQL & Python tutoring series.*
